@@ -18491,3 +18491,31 @@ Processing by WelcomeController#homepage as HTML
 Completed 200 OK in 174ms (Views: 13.9ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-10-19 13:27:42 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 172ms (Views: 8.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 13:38:05 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 181ms (Views: 11.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 13:47:17 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 166ms (Views: 10.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 13:48:44 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 179ms (Views: 12.0ms)
+
+
