@@ -18519,3 +18519,95 @@ Processing by WelcomeController#homepage as HTML
 Completed 200 OK in 179ms (Views: 12.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:25:26 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 179ms (Views: 11.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:25:33 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 12ms (Views: 9.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:58:55 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (232.3ms)
+Completed 500 Internal Server Error in 419ms
+
+
+  
+ActionView::Template::Error (The asset "assets/documents/DeployingRubyToAWS.pdf" is not present in the asset pipeline.):
+    157:           <div class="col-lg-8 mx-auto text-center">
+    158:             <a href="#" class="btn btn-lg btn-outline">
+    159:               <i class="fa fa-download"></i>
+    160:               <%= link_to "AWS Documentation download", asset_path("assets/documents/DeployingRubyToAWS.pdf"), target: "_blank" %>
+    161: 
+    162: 
+    163:             </a>
+  
+app/views/welcome/homepage.html.erb:160:in `_app_views_welcome_homepage_html_erb___3101360634032760846_70339411749960'
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:02:43 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (236.7ms)
+Completed 500 Internal Server Error in 410ms
+
+
+  
+ActionView::Template::Error (The asset "assets/DeployingRubyToAWS.pdf" is not present in the asset pipeline.):
+    157:           <div class="col-lg-8 mx-auto text-center">
+    158:             <a href="#" class="btn btn-lg btn-outline">
+    159:               <i class="fa fa-download"></i>
+    160:               <%= link_to "AWS Documentation download", asset_path("assets/DeployingRubyToAWS.pdf"), target: "_blank" %>
+    161: 
+    162: 
+    163:             </a>
+  
+app/views/welcome/homepage.html.erb:160:in `_app_views_welcome_homepage_html_erb__2003123857795382421_70161385412620'
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:15:27 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 170ms (Views: 11.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:25:17 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 200ms (Views: 10.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:27:43 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 181ms (Views: 10.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:27:54 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 17ms (Views: 14.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:28:20 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (66.8ms)
+Completed 200 OK in 85ms (Views: 79.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:28:24 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 24ms (Views: 19.9ms)
+
+
