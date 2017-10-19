@@ -1,1 +1,4 @@
 /tmp
+/log
+/vendor/bundle
+/config/secrets.yml

@@ -17895,3 +17895,11 @@ Processing by WelcomeController#homepage as HTML
 Completed 200 OK in 17ms (Views: 15.3ms)
 
 
+Started GET "/" for 71.45.35.226 at 2017-10-18 04:46:19 +0000
+Cannot render console from 71.45.35.226! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 5543ms (Views: 5381.3ms)
+
+
