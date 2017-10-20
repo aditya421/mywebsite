@@ -18611,3 +18611,1709 @@ Processing by WelcomeController#homepage as HTML
 Completed 200 OK in 24ms (Views: 19.9ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-10-19 23:41:47 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 209ms (Views: 14.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 23:50:40 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 204ms (Views: 10.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 23:50:59 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 11ms (Views: 8.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 23:51:13 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 21ms (Views: 17.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:07:48 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 16ms (Views: 13.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:07:50 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 19ms (Views: 15.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:07:51 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 18ms (Views: 14.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:07:53 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (62.4ms)
+Completed 200 OK in 77ms (Views: 73.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:07:55 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 18ms (Views: 14.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:10:30 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 136ms (Views: 8.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:19:06 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (12.1ms)
+Completed 500 Internal Server Error in 164ms
+
+
+  
+SyntaxError (/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:158: syntax error, unexpected tSTRING_BEG, expecting ')'
+", “/DeployingRubyToAWS.pdf", target: "_blank" );@output_b
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:158: syntax error, unexpected tIDENTIFIER, expecting ')'
+ubyToAWS.pdf", target: "_blank" );@output_buffer.safe_append
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:165: syntax error, unexpected tIDENTIFIER, expecting ')'
+    <section id="contact">
+                        ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:166: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <div class="container">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:167: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <h2 class="text-center">Contact Me</h2>
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:167: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+       <h2 class="text-center">Contact Me</h2>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:168: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <hr class="star-primary">
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:168: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:169: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <div class="row">
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:170: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <div class="col-lg-8 mx-auto">
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:170: syntax error, unexpected tIDENTIFIER, expecting ')'
+       <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:170: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:173: syntax error, unexpected tIDENTIFIER, expecting ')'
+       <form name="sentMessage" id="contactForm" novalidate>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:173: syntax error, unexpected tIDENTIFIER, expecting ')'
+="sentMessage" id="contactForm" novalidate>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:174: syntax error, unexpected tIDENTIFIER, expecting ')'
+           <div class="control-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:174: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="control-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:175: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="form-group floating-label-form-gro
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:175: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+div class="form-group floating-label-form-group controls">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:175: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+ting-label-form-group controls">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:177: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <input class="form-control" id="name" type="text
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:177: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+   <input class="form-control" id="name" type="text" placeho
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:177: syntax error, unexpected tIDENTIFIER, expecting ')'
+ class="form-control" id="name" type="text" placeholder="Nam
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:177: syntax error, unexpected tIDENTIFIER, expecting ')'
+-control" id="name" type="text" placeholder="Name" required 
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:177: syntax error, unexpected tCONSTANT, expecting ')'
+ type="text" placeholder="Name" required data-validation-req
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:177: syntax error, unexpected tCONSTANT, expecting ')'
+ation-required-message="Please enter your name.">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:177: syntax error, unexpected tSTRING_BEG, expecting '('
+sage="Please enter your name.">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:178: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <p class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:178: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <p class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:178: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:181: syntax error, unexpected tIDENTIFIER, expecting ')'
+           <div class="control-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:181: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="control-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:182: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="form-group floating-label-form-gro
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:182: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+div class="form-group floating-label-form-group controls">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:182: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+ting-label-form-group controls">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:184: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <input class="form-control" id="email" type="ema
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:184: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+   <input class="form-control" id="email" type="email" place
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:184: syntax error, unexpected tIDENTIFIER, expecting ')'
+class="form-control" id="email" type="email" placeholder="Em
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:184: syntax error, unexpected tIDENTIFIER, expecting ')'
+ontrol" id="email" type="email" placeholder="Email Address" 
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:184: syntax error, unexpected tCONSTANT, expecting ')'
+ype="email" placeholder="Email Address" required data-valida
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:184: syntax error, unexpected tCONSTANT, expecting ')'
+ation-required-message="Please enter your email address.">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:184: syntax error, unexpected tSTRING_BEG, expecting '('
+ase enter your email address.">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:185: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <p class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:185: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <p class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:185: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:188: syntax error, unexpected tIDENTIFIER, expecting ')'
+           <div class="control-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:188: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="control-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:189: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="form-group floating-label-form-gro
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:189: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+div class="form-group floating-label-form-group controls">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:189: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+ting-label-form-group controls">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:191: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <input class="form-control" id="phone" type="tel
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:191: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+   <input class="form-control" id="phone" type="tel" placeho
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:191: syntax error, unexpected tIDENTIFIER, expecting ')'
+class="form-control" id="phone" type="tel" placeholder="Phon
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:191: syntax error, unexpected tIDENTIFIER, expecting ')'
+-control" id="phone" type="tel" placeholder="Phone Number" r
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:191: syntax error, unexpected tCONSTANT, expecting ')'
+ type="tel" placeholder="Phone Number" required data-validat
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:191: syntax error, unexpected tCONSTANT, expecting ')'
+ation-required-message="Please enter your phone number.">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:191: syntax error, unexpected tSTRING_BEG, expecting '('
+ease enter your phone number.">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:192: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <p class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:192: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <p class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:192: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:195: syntax error, unexpected tIDENTIFIER, expecting ')'
+           <div class="control-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:195: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="control-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:196: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="form-group floating-label-form-gro
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:196: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+div class="form-group floating-label-form-group controls">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:196: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+ting-label-form-group controls">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:198: syntax error, unexpected tIDENTIFIER, expecting ')'
+         <textarea class="form-control" id="message" rows="5
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:198: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+<textarea class="form-control" id="message" rows="5" placeho
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:198: syntax error, unexpected tIDENTIFIER, expecting ')'
+ass="form-control" id="message" rows="5" placeholder="Messag
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:198: syntax error, unexpected tINTEGER, expecting ')'
+-control" id="message" rows="5" placeholder="Message" requir
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:198: syntax error, unexpected tCONSTANT, expecting ')'
+ rows="5" placeholder="Message" required data-validation-req
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:198: syntax error, unexpected tCONSTANT, expecting ')'
+ation-required-message="Please enter a message."></textarea>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:198: syntax error, unexpected tSTRING_BEG, expecting '('
+sage="Please enter a message."></textarea>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:199: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <p class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:199: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <p class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:199: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="help-block text-danger"></p>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:203: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div id="success"></div>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:204: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="form-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:204: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+       <div class="form-group">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:205: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <button type="submit" class="btn btn-success btn-l
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:205: syntax error, unexpected tIDENTIFIER, expecting ')'
+utton type="submit" class="btn btn-success btn-lg" id="sendM
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:205: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+it" class="btn btn-success btn-lg" id="sendMessageButton">Se
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:205: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="btn btn-success btn-lg" id="sendMessageButton">Send</
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:205: syntax error, unexpected tIDENTIFIER, expecting ')'
+ btn-lg" id="sendMessageButton">Send</button>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:214: syntax error, unexpected tIDENTIFIER, expecting ')'
+    <footer class="text-center">
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:214: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+   <footer class="text-center">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:215: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <div class="footer-above">
+                        ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:215: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+     <div class="footer-above">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:216: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <div class="container">
+                             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:217: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <div class="row">
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:218: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:218: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+    <div class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:218: syntax error, unexpected tSTRING_BEG, expecting ')'
+iv class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:222: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:222: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+    <div class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:222: syntax error, unexpected tSTRING_BEG, expecting ')'
+iv class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:224: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <ul class="list-inline">
+                             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:224: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+       <ul class="list-inline">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:225: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <li class="list-inline-item">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:225: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  <li class="list-inline-item">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:226: syntax error, unexpected tIDENTIFIER, expecting ')'
+                 <a class="btn-social btn-outline" href="htt
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:226: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+      <a class="btn-social btn-outline" href="https://www.fa
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:226: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="btn-social btn-outline" href="https://www.facebook.co
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:226: syntax error, unexpected tIDENTIFIER, expecting ')'
+ocial btn-outline" href="https://www.facebook.com/adityasaxe
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:226: unknown regexp options - www
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:226: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+w.facebook.com/adityasaxena24">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:227: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-fw fa-facebook"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:227: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+         <i class="fa fa-fw fa-facebook"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:227: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+i class="fa fa-fw fa-facebook"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:230: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <li class="list-inline-item">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:230: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  <li class="list-inline-item">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:231: syntax error, unexpected tIDENTIFIER, expecting ')'
+                 <a class="btn-social btn-outline" href="htt
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:231: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+      <a class="btn-social btn-outline" href="https://plus.g
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:231: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="btn-social btn-outline" href="https://plus.google.com
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:231: syntax error, unexpected tIDENTIFIER, expecting ')'
+ocial btn-outline" href="https://plus.google.com/10196711410
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:231: unknown regexp options - pl
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:231: syntax error, unexpected tSTRING_BEG, expecting ')'
+gle.com/101967114100921899274">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:232: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-fw fa-google-plus"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:232: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+         <i class="fa fa-fw fa-google-plus"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:232: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+lass="fa fa-fw fa-google-plus"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:235: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <li class="list-inline-item">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:235: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  <li class="list-inline-item">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:236: syntax error, unexpected tIDENTIFIER, expecting ')'
+                 <a class="btn-social btn-outline" href="htt
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:236: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+      <a class="btn-social btn-outline" href="https://twitte
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:236: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="btn-social btn-outline" href="https://twitter.com/Adi
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:236: syntax error, unexpected tIDENTIFIER, expecting ')'
+ocial btn-outline" href="https://twitter.com/Aditya1992_24">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:236: unknown regexp options - twttr
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:236: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+s://twitter.com/Aditya1992_24">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:237: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-fw fa-twitter"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:237: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+         <i class="fa fa-fw fa-twitter"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:237: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+<i class="fa fa-fw fa-twitter"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:240: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <li class="list-inline-item">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:240: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+  <li class="list-inline-item">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:241: syntax error, unexpected tIDENTIFIER, expecting ')'
+                 <a class="btn-social btn-outline" href="htt
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:241: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+      <a class="btn-social btn-outline" href="https://www.li
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:241: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="btn-social btn-outline" href="https://www.linkedin.co
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:241: syntax error, unexpected tIDENTIFIER, expecting ')'
+ocial btn-outline" href="https://www.linkedin.com/in/saxenad
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:241: unknown regexp options - www
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:241: syntax error, unexpected keyword_in
+f="https://www.linkedin.com/in/saxenaditya/">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:241: syntax error, unexpected tSTRING_BEG, expecting ')'
+.linkedin.com/in/saxenaditya/">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:242: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-fw fa-linkedin"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:242: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+         <i class="fa fa-fw fa-linkedin"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:242: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+i class="fa fa-fw fa-linkedin"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:247: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:247: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+    <div class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:247: syntax error, unexpected tSTRING_BEG, expecting ')'
+iv class="footer-col col-md-4">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:254: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <div class="footer-below">
+                        ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:254: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+     <div class="footer-below">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:255: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <div class="container">
+                             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:256: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <div class="row">
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:257: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="col-lg-12">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:257: syntax error, unexpected tSTRING_BEG, expecting ')'
+        <div class="col-lg-12">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:266: syntax error, unexpected tIDENTIFIER, expecting ')'
+    <div class="scroll-top d-lg-none">
+                      ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:266: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+    <div class="scroll-top d-lg-none">
+                            ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:266: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+v class="scroll-top d-lg-none">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:267: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <a class="btn btn-primary js-scroll-trigger
+                   ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:267: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+  <a class="btn btn-primary js-scroll-trigger" href="#page-t
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:267: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+btn-primary js-scroll-trigger" href="#page-top">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:268: syntax error, unexpected '<', expecting ')'
+        <i class="fa fa-chevron-up"></i
+         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:268: syntax error, unexpected '<'
+ <i class="fa fa-chevron-up"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:269: unknown regexp option - a
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:270: syntax error, unexpected '<'
+    </div>
+     ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:278: unknown regexp options - dv
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:279: syntax error, unexpected '<'
+            </div>
+             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:280: unknown regexp options - dv
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:281: syntax error, unexpected '<'
+          <div class="container">
+           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:282: syntax error, unexpected '<'
+            <div class="row">
+             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:283: syntax error, unexpected '<'
+              <div class="col-lg-8 mx-auto">
+               ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:284: syntax error, unexpected '<'
+                <div class="modal-body">
+                 ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:285: syntax error, unexpected '<'
+                  <h2>AWS ACCOUNT</h2>
+                   ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:285: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+               <h2>AWS ACCOUNT</h2>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:287: unknown regexp options - prtfl
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:287: syntax error, unexpected tSTRING_BEG, expecting ')'
+c="assets/portfolio/cabin.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:289: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <a href="https://aws.amazon.com/free/">AMAZO
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:289: unknown regexp options - aw
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:290: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:290: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+   <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:290: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ass="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:293: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <a href="https://aws.amazon.com/pricing/?nc2
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:293: unknown regexp options - aw
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:293: syntax error, unexpected '?'
+tps://aws.amazon.com/pricing/?nc2=h_ql_pr">AWS Pricing</a>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:298: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <a href="hhttps://aws.amazon.com/getting-star
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:298: unknown regexp options - aw
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:298: syntax error, unexpected '?'
+ting-started/resource-center/?nc2=h_ql_gs">Getting Started</
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:303: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <a href="https://og-aws-slack.lexikon.io/">J
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:303: unknown regexp option - g
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:307: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <button class="btn btn-success" type="button" da
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:307: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+button class="btn btn-success" type="button" data-dismiss="m
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:307: syntax error, unexpected tIDENTIFIER, expecting ')'
+"btn btn-success" type="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:307: syntax error, unexpected tIDENTIFIER, expecting ')'
+e="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:308: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:308: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+        <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:317: syntax error, unexpected tIDENTIFIER, expecting ')'
+    <div class="portfolio-modal modal fade" id="portfol
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:317: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+v class="portfolio-modal modal fade" id="portfolioModal2" ta
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:317: syntax error, unexpected tIDENTIFIER, expecting ')'
+odal fade" id="portfolioModal2" tabindex="-1" role="dialog" 
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:317: syntax error, unexpected tSTRING_BEG, expecting ')'
+portfolioModal2" tabindex="-1" role="dialog" aria-hidden="tr
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:317: syntax error, unexpected tIDENTIFIER, expecting ')'
+l2" tabindex="-1" role="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:317: syntax error, unexpected keyword_true, expecting ')'
+ole="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:318: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <div class="modal-dialog" role="document">
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:318: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+     <div class="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:318: syntax error, unexpected tIDENTIFIER, expecting ')'
+="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:319: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <div class="modal-content">
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:319: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="modal-content">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:320: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <div class="close-modal" data-dismiss="modal">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:320: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <div class="close-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:320: syntax error, unexpected tIDENTIFIER, expecting ')'
+ose-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:321: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="lr">
+                          ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:322: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="rl"></div>
+                            ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:325: syntax error, unexpected tIDENTIFIER, expecting ')'
+         <div class="container">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:326: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="row">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:327: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="col-lg-8 mx-auto">
+                             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:327: syntax error, unexpected tIDENTIFIER, expecting ')'
+       <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:327: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:328: syntax error, unexpected tIDENTIFIER, expecting ')'
+             <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:328: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+       <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:330: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:330: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:331: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <img class="img-fluid img-centered" src="asse
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:331: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <img class="img-fluid img-centered" src="assets/portfol
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:331: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="img-fluid img-centered" src="assets/portfolio/cake.pn
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:331: syntax error, unexpected tIDENTIFIER, expecting ')'
+luid img-centered" src="assets/portfolio/cake.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:331: syntax error, unexpected tSTRING_BEG, expecting ')'
+rc="assets/portfolio/cake.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:338: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:338: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+   <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:338: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ass="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:341: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <a href="https://www.nginx.com/resources/wik
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:341: unknown regexp options - www
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:346: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <a href="https://www.phusionpassenger.com/li
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:346: unknown regexp options - www
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:351: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <a href="https://www.phusionpassenger.com/li
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:351: unknown regexp options - www
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:351: syntax error, unexpected tSTRING_BEG, expecting ')'
+s/install_passenger_main.html">Passenger+Nginx</a>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:355: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <button class="btn btn-success" type="button" da
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:355: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+button class="btn btn-success" type="button" data-dismiss="m
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:355: syntax error, unexpected tIDENTIFIER, expecting ')'
+"btn btn-success" type="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:355: syntax error, unexpected tIDENTIFIER, expecting ')'
+e="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:356: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:356: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+        <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:365: syntax error, unexpected tIDENTIFIER, expecting ')'
+    <div class="portfolio-modal modal fade" id="portfol
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:365: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+v class="portfolio-modal modal fade" id="portfolioModal3" ta
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:365: syntax error, unexpected tIDENTIFIER, expecting ')'
+odal fade" id="portfolioModal3" tabindex="-1" role="dialog" 
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:365: syntax error, unexpected tSTRING_BEG, expecting ')'
+portfolioModal3" tabindex="-1" role="dialog" aria-hidden="tr
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:365: syntax error, unexpected tIDENTIFIER, expecting ')'
+l3" tabindex="-1" role="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:365: syntax error, unexpected keyword_true, expecting ')'
+ole="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:366: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <div class="modal-dialog" role="document">
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:366: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+     <div class="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:366: syntax error, unexpected tIDENTIFIER, expecting ')'
+="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:367: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <div class="modal-content">
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:367: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="modal-content">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:368: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <div class="close-modal" data-dismiss="modal">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:368: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <div class="close-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:368: syntax error, unexpected tIDENTIFIER, expecting ')'
+ose-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:369: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="lr">
+                          ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:370: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="rl"></div>
+                            ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:373: syntax error, unexpected tIDENTIFIER, expecting ')'
+         <div class="container">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:374: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="row">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:375: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="col-lg-8 mx-auto">
+                             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:375: syntax error, unexpected tIDENTIFIER, expecting ')'
+       <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:375: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:376: syntax error, unexpected tIDENTIFIER, expecting ')'
+             <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:376: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+       <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:378: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:378: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:379: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <img class="img-fluid img-centered" src="asse
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:379: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <img class="img-fluid img-centered" src="assets/portfol
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:379: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="img-fluid img-centered" src="assets/portfolio/circus.
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:379: syntax error, unexpected tIDENTIFIER, expecting ')'
+luid img-centered" src="assets/portfolio/circus.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:379: syntax error, unexpected tSTRING_BEG, expecting ')'
+="assets/portfolio/circus.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:381: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:381: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+   <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:381: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ass="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:384: syntax error, unexpected tIDENTIFIER, expecting ')'
+                 <a href="http://guides.rubyonrails.org/gett
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:384: unknown regexp options - gd
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:384: syntax error, unexpected tSTRING_BEG, expecting ')'
+ails.org/getting_started.html">Getting Started</a>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:388: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <button class="btn btn-success" type="button" da
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:388: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+button class="btn btn-success" type="button" data-dismiss="m
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:388: syntax error, unexpected tIDENTIFIER, expecting ')'
+"btn btn-success" type="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:388: syntax error, unexpected tIDENTIFIER, expecting ')'
+e="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:389: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:389: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+        <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:398: syntax error, unexpected tIDENTIFIER, expecting ')'
+    <div class="portfolio-modal modal fade" id="portfol
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:398: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+v class="portfolio-modal modal fade" id="portfolioModal4" ta
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:398: syntax error, unexpected tIDENTIFIER, expecting ')'
+odal fade" id="portfolioModal4" tabindex="-1" role="dialog" 
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:398: syntax error, unexpected tSTRING_BEG, expecting ')'
+portfolioModal4" tabindex="-1" role="dialog" aria-hidden="tr
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:398: syntax error, unexpected tIDENTIFIER, expecting ')'
+l4" tabindex="-1" role="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:398: syntax error, unexpected keyword_true, expecting ')'
+ole="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:399: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <div class="modal-dialog" role="document">
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:399: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+     <div class="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:399: syntax error, unexpected tIDENTIFIER, expecting ')'
+="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:400: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <div class="modal-content">
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:400: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="modal-content">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:401: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <div class="close-modal" data-dismiss="modal">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:401: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <div class="close-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:401: syntax error, unexpected tIDENTIFIER, expecting ')'
+ose-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:402: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="lr">
+                          ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:403: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="rl"></div>
+                            ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:406: syntax error, unexpected tIDENTIFIER, expecting ')'
+         <div class="container">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:407: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="row">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:408: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="col-lg-8 mx-auto">
+                             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:408: syntax error, unexpected tIDENTIFIER, expecting ')'
+       <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:408: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:409: syntax error, unexpected tIDENTIFIER, expecting ')'
+             <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:409: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+       <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:411: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:411: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:412: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <img class="img-fluid img-centered" src="asse
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:412: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <img class="img-fluid img-centered" src="assets/portfol
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:412: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="img-fluid img-centered" src="assets/portfolio/game.pn
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:412: syntax error, unexpected tIDENTIFIER, expecting ')'
+luid img-centered" src="assets/portfolio/game.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:412: syntax error, unexpected tSTRING_BEG, expecting ')'
+rc="assets/portfolio/game.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:416: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <button class="btn btn-success" type="button" da
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:416: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+button class="btn btn-success" type="button" data-dismiss="m
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:416: syntax error, unexpected tIDENTIFIER, expecting ')'
+"btn btn-success" type="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:416: syntax error, unexpected tIDENTIFIER, expecting ')'
+e="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:417: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:417: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+        <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:426: syntax error, unexpected tIDENTIFIER, expecting ')'
+    <div class="portfolio-modal modal fade" id="portfol
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:426: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+v class="portfolio-modal modal fade" id="portfolioModal5" ta
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:426: syntax error, unexpected tIDENTIFIER, expecting ')'
+odal fade" id="portfolioModal5" tabindex="-1" role="dialog" 
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:426: syntax error, unexpected tSTRING_BEG, expecting ')'
+portfolioModal5" tabindex="-1" role="dialog" aria-hidden="tr
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:426: syntax error, unexpected tIDENTIFIER, expecting ')'
+l5" tabindex="-1" role="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:426: syntax error, unexpected keyword_true, expecting ')'
+ole="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:427: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <div class="modal-dialog" role="document">
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:427: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+     <div class="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:427: syntax error, unexpected tIDENTIFIER, expecting ')'
+="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:428: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <div class="modal-content">
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:428: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="modal-content">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:429: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <div class="close-modal" data-dismiss="modal">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:429: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <div class="close-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:429: syntax error, unexpected tIDENTIFIER, expecting ')'
+ose-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:430: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="lr">
+                          ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:431: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="rl"></div>
+                            ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:434: syntax error, unexpected tIDENTIFIER, expecting ')'
+         <div class="container">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:435: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="row">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:436: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="col-lg-8 mx-auto">
+                             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:436: syntax error, unexpected tIDENTIFIER, expecting ')'
+       <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:436: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:437: syntax error, unexpected tIDENTIFIER, expecting ')'
+             <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:437: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+       <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:439: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:439: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:440: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <img class="img-fluid img-centered" src="asse
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:440: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <img class="img-fluid img-centered" src="assets/portfol
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:440: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="img-fluid img-centered" src="assets/portfolio/safe.pn
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:440: syntax error, unexpected tIDENTIFIER, expecting ')'
+luid img-centered" src="assets/portfolio/safe.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:440: syntax error, unexpected tSTRING_BEG, expecting ')'
+rc="assets/portfolio/safe.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:442: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:442: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+   <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:442: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ass="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:445: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <a href="https://startbootstrap.com/">Visit 
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:445: unknown regexp options - tartbttrap
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:449: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <button class="btn btn-success" type="button" da
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:449: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+button class="btn btn-success" type="button" data-dismiss="m
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:449: syntax error, unexpected tIDENTIFIER, expecting ')'
+"btn btn-success" type="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:449: syntax error, unexpected tIDENTIFIER, expecting ')'
+e="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:450: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:450: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+        <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:459: syntax error, unexpected tIDENTIFIER, expecting ')'
+    <div class="portfolio-modal modal fade" id="portfol
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:459: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+v class="portfolio-modal modal fade" id="portfolioModal6" ta
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:459: syntax error, unexpected tIDENTIFIER, expecting ')'
+odal fade" id="portfolioModal6" tabindex="-1" role="dialog" 
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:459: syntax error, unexpected tSTRING_BEG, expecting ')'
+portfolioModal6" tabindex="-1" role="dialog" aria-hidden="tr
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:459: syntax error, unexpected tIDENTIFIER, expecting ')'
+l6" tabindex="-1" role="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:459: syntax error, unexpected keyword_true, expecting ')'
+ole="dialog" aria-hidden="true">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:460: syntax error, unexpected tIDENTIFIER, expecting ')'
+      <div class="modal-dialog" role="document">
+                       ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:460: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+     <div class="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:460: syntax error, unexpected tIDENTIFIER, expecting ')'
+="modal-dialog" role="document">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:461: syntax error, unexpected tIDENTIFIER, expecting ')'
+        <div class="modal-content">
+                         ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:461: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+    <div class="modal-content">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:462: syntax error, unexpected tIDENTIFIER, expecting ')'
+          <div class="close-modal" data-dismiss="modal">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:462: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <div class="close-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:462: syntax error, unexpected tIDENTIFIER, expecting ')'
+ose-modal" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:463: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="lr">
+                          ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:464: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="rl"></div>
+                            ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:467: syntax error, unexpected tIDENTIFIER, expecting ')'
+         <div class="container">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:468: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <div class="row">
+                           ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:469: syntax error, unexpected tIDENTIFIER, expecting ')'
+              <div class="col-lg-8 mx-auto">
+                             ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:469: syntax error, unexpected tIDENTIFIER, expecting ')'
+       <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:469: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ <div class="col-lg-8 mx-auto">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:470: syntax error, unexpected tIDENTIFIER, expecting ')'
+             <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:470: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+       <div class="modal-body">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:472: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:472: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+      <hr class="star-primary">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:473: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <img class="img-fluid img-centered" src="asse
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:473: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+     <img class="img-fluid img-centered" src="assets/portfol
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:473: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+class="img-fluid img-centered" src="assets/portfolio/submari
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:473: syntax error, unexpected tIDENTIFIER, expecting ')'
+luid img-centered" src="assets/portfolio/submarine.png" alt=
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:473: syntax error, unexpected tSTRING_BEG, expecting ')'
+ssets/portfolio/submarine.png" alt="">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:475: syntax error, unexpected tIDENTIFIER, expecting ')'
+               <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:475: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+   <ul class="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:475: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+ass="list-inline item-details">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:478: syntax error, unexpected tIDENTIFIER, expecting ')'
+                <a href="https://aws.amazon.com/route53/">AW
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:478: unknown regexp options - aw
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:482: syntax error, unexpected tIDENTIFIER, expecting ')'
+            <button class="btn btn-success" type="button" da
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:482: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+button class="btn btn-success" type="button" data-dismiss="m
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:482: syntax error, unexpected tIDENTIFIER, expecting ')'
+"btn btn-success" type="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:482: syntax error, unexpected tIDENTIFIER, expecting ')'
+e="button" data-dismiss="modal">
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:483: syntax error, unexpected tIDENTIFIER, expecting ')'
+                  <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:483: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+        <i class="fa fa-times"></i>
+                              ^
+/Users/adityasaxena/Desktop/myproject/app/views/welcome/homepage.html.erb:483: unterminated string meets end of file):
+  
+app/views/welcome/homepage.html.erb:158: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:158: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:165: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:166: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:167: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:167: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:168: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:168: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:169: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:170: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:170: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:170: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:173: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:173: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:174: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:174: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:175: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:175: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:175: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:177: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:177: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:177: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:177: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:177: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/welcome/homepage.html.erb:177: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/welcome/homepage.html.erb:177: syntax error, unexpected tSTRING_BEG, expecting '('
+app/views/welcome/homepage.html.erb:178: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:178: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:178: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:181: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:181: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:182: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:182: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:182: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:184: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:184: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:184: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:184: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:184: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/welcome/homepage.html.erb:184: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/welcome/homepage.html.erb:184: syntax error, unexpected tSTRING_BEG, expecting '('
+app/views/welcome/homepage.html.erb:185: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:185: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:185: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:188: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:188: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:189: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:189: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:189: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:191: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:191: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:191: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:191: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:191: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/welcome/homepage.html.erb:191: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/welcome/homepage.html.erb:191: syntax error, unexpected tSTRING_BEG, expecting '('
+app/views/welcome/homepage.html.erb:192: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:192: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:192: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:195: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:195: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:196: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:196: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:196: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:198: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:198: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:198: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:198: syntax error, unexpected tINTEGER, expecting ')'
+app/views/welcome/homepage.html.erb:198: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/welcome/homepage.html.erb:198: syntax error, unexpected tCONSTANT, expecting ')'
+app/views/welcome/homepage.html.erb:198: syntax error, unexpected tSTRING_BEG, expecting '('
+app/views/welcome/homepage.html.erb:199: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:199: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:199: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:203: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:204: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:204: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:205: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:205: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:205: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:205: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:205: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:214: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:214: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:215: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:215: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:216: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:217: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:218: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:218: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:218: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:222: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:222: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:222: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:224: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:224: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:225: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:225: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:226: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:226: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:226: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:226: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:226: unknown regexp options - www
+app/views/welcome/homepage.html.erb:226: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:227: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:227: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:227: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:230: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:230: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:231: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:231: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:231: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:231: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:231: unknown regexp options - pl
+app/views/welcome/homepage.html.erb:231: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:232: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:232: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:232: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:235: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:235: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:236: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:236: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:236: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:236: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:236: unknown regexp options - twttr
+app/views/welcome/homepage.html.erb:236: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:237: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:237: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:237: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:240: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:240: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:241: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:241: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:241: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:241: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:241: unknown regexp options - www
+app/views/welcome/homepage.html.erb:241: syntax error, unexpected keyword_in
+app/views/welcome/homepage.html.erb:241: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:242: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:242: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:242: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:247: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:247: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:247: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:254: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:254: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:255: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:256: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:257: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:257: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:266: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:266: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:266: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:267: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:267: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:267: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:268: syntax error, unexpected '<', expecting ')'
+app/views/welcome/homepage.html.erb:268: syntax error, unexpected '<'
+app/views/welcome/homepage.html.erb:269: unknown regexp option - a
+app/views/welcome/homepage.html.erb:270: syntax error, unexpected '<'
+app/views/welcome/homepage.html.erb:278: unknown regexp options - dv
+app/views/welcome/homepage.html.erb:279: syntax error, unexpected '<'
+app/views/welcome/homepage.html.erb:280: unknown regexp options - dv
+app/views/welcome/homepage.html.erb:281: syntax error, unexpected '<'
+app/views/welcome/homepage.html.erb:282: syntax error, unexpected '<'
+app/views/welcome/homepage.html.erb:283: syntax error, unexpected '<'
+app/views/welcome/homepage.html.erb:284: syntax error, unexpected '<'
+app/views/welcome/homepage.html.erb:285: syntax error, unexpected '<'
+app/views/welcome/homepage.html.erb:285: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:287: unknown regexp options - prtfl
+app/views/welcome/homepage.html.erb:287: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:289: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:289: unknown regexp options - aw
+app/views/welcome/homepage.html.erb:290: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:290: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:290: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:293: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:293: unknown regexp options - aw
+app/views/welcome/homepage.html.erb:293: syntax error, unexpected '?'
+app/views/welcome/homepage.html.erb:298: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:298: unknown regexp options - aw
+app/views/welcome/homepage.html.erb:298: syntax error, unexpected '?'
+app/views/welcome/homepage.html.erb:303: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:303: unknown regexp option - g
+app/views/welcome/homepage.html.erb:307: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:307: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:307: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:307: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:308: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:308: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:317: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:317: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:317: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:317: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:317: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:317: syntax error, unexpected keyword_true, expecting ')'
+app/views/welcome/homepage.html.erb:318: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:318: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:318: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:319: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:319: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:320: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:320: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:320: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:321: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:322: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:325: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:326: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:327: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:327: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:327: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:328: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:328: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:330: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:330: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:331: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:331: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:331: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:331: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:331: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:338: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:338: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:338: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:341: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:341: unknown regexp options - www
+app/views/welcome/homepage.html.erb:346: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:346: unknown regexp options - www
+app/views/welcome/homepage.html.erb:351: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:351: unknown regexp options - www
+app/views/welcome/homepage.html.erb:351: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:355: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:355: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:355: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:355: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:356: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:356: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:365: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:365: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:365: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:365: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:365: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:365: syntax error, unexpected keyword_true, expecting ')'
+app/views/welcome/homepage.html.erb:366: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:366: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:366: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:367: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:367: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:368: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:368: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:368: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:369: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:370: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:373: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:374: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:375: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:375: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:375: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:376: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:376: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:378: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:378: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:379: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:379: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:379: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:379: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:379: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:381: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:381: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:381: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:384: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:384: unknown regexp options - gd
+app/views/welcome/homepage.html.erb:384: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:388: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:388: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:388: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:388: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:389: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:389: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:398: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:398: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:398: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:398: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:398: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:398: syntax error, unexpected keyword_true, expecting ')'
+app/views/welcome/homepage.html.erb:399: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:399: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:399: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:400: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:400: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:401: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:401: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:401: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:402: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:403: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:406: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:407: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:408: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:408: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:408: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:409: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:409: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:411: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:411: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:412: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:412: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:412: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:412: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:412: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:416: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:416: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:416: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:416: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:417: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:417: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:426: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:426: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:426: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:426: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:426: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:426: syntax error, unexpected keyword_true, expecting ')'
+app/views/welcome/homepage.html.erb:427: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:427: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:427: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:428: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:428: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:429: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:429: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:429: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:430: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:431: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:434: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:435: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:436: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:436: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:436: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:437: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:437: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:439: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:439: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:440: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:440: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:440: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:440: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:440: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:442: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:442: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:442: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:445: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:445: unknown regexp options - tartbttrap
+app/views/welcome/homepage.html.erb:449: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:449: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:449: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:449: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:450: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:450: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:459: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:459: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:459: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:459: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:459: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:459: syntax error, unexpected keyword_true, expecting ')'
+app/views/welcome/homepage.html.erb:460: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:460: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:460: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:461: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:461: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:462: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:462: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:462: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:463: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:464: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:467: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:468: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:469: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:469: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:469: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:470: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:470: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:472: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:472: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:473: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:473: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:473: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:473: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:473: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/views/welcome/homepage.html.erb:475: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:475: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:475: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:478: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:478: unknown regexp options - aw
+app/views/welcome/homepage.html.erb:482: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:482: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:482: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:482: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:483: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/welcome/homepage.html.erb:483: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/welcome/homepage.html.erb:483: unterminated string meets end of file
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:19:59 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 149ms (Views: 12.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:21:58 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 152ms (Views: 9.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:24:14 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 145ms (Views: 12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:24:20 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 17ms (Views: 14.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:25:24 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 144ms (Views: 8.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:25:29 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 18ms (Views: 14.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:26:55 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 152ms (Views: 11.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:31:29 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 143ms (Views: 8.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:33:34 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 146ms (Views: 10.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:35:52 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 196ms (Views: 11.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:39:31 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 214ms (Views: 12.5ms)
+
+
