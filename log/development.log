@@ -20317,3 +20317,17 @@ Processing by WelcomeController#homepage as HTML
 Completed 200 OK in 214ms (Views: 12.5ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:47:57 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 169ms (Views: 8.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 00:50:02 -0500
+Processing by WelcomeController#homepage as HTML
+  Rendering welcome/homepage.html.erb within layouts/application
+  Rendered welcome/homepage.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 149ms (Views: 9.6ms)
+
+
